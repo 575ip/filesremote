@@ -1,6 +1,7 @@
 sudo xbps-install -S wxWidgets-devel libssh-devel base-devel cmake git
 
 git clone https://github.com/575ip/filesremote
+
 cd filesremote
 
 mkdir build && cd build

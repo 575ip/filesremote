@@ -1,3 +1,7 @@
+From original repo https://github.com/allanrbo/filesremote
+
+FOR VOID LINUX MUSL
+
 sudo xbps-install -S wxWidgets-devel libssh-devel base-devel cmake git
 
 git clone https://github.com/575ip/filesremote
